@@ -9,6 +9,7 @@ We conduct a series of experiments exploring various vision capabilities of mult
 
 [Repo Overview](#top)
   - [Experiments Taxonomy](#experiments-taxonomy)
+  - [Takeaways](#key-takeaways)
   - [Data](#data)
   - [Prompts](#prompts)
 
@@ -32,7 +33,14 @@ We conduct a series of experiments exploring various vision capabilities of mult
 - Flags
   - Identification
 - Failure cases
-  - Identifying multiple states      
+  - Identifying multiple states
+
+## Key takeaways
+* Of all the evaluated models, GPT-4V can perform the broadest range of tasks. However, it does not always perform best, e.g., satellite image detection and classification tasks. In general, it recognizes fine-detail well but tends to fail when 
+precise localisation is required.
+* More broadly, the best model choice depends on the task at hand. Qwen-VL and LLaVA-1.5 in particular often demonstrate good localisation performance.
+* Enforcing a specific output format is challenging, models often resort to explanations why they are not capable of performing the task. Among the evaluated models GPT-4V was least susceptible to this behaviour.
+* The current generation of leading MLLMs suffer a performance penalty when processing multi-object images, relative to their performance on single object images.
 
 ## Data
 Coming very soon!
