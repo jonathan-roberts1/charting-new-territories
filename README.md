@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Charting New Territories
 
-[**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**]()
+[**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**](https://arxiv.org/abs/2311.14656)
 
 Jonathan Roberts, Timo Lüddecke, Rehan Sheikh, Kai Han, Samuel Albanie
 
@@ -12,6 +12,8 @@ We conduct a series of experiments exploring various vision capabilities of mult
   - [Takeaways](#key-takeaways)
   - [Data](#data)
   - [Prompts](#prompts)
+  - [Citation](#citation)
+  - [Questions](#questions)
 
 ## Experiments Taxonomy
 - Localisation
@@ -47,6 +49,20 @@ Coming very soon!
 
 ## Prompts
 Coming soon!
+
+## Citation
+If you found our work useful in your own research, please consider citing our paper:
+
+```latex
+@misc{roberts2023charting,
+      title={Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs}, 
+      author={Jonathan Roberts and Timo Lüddecke and Rehan Sheikh and Kai Han and Samuel Albanie},
+      year={2023},
+      eprint={2311.14656},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Questions
 If you have any questions about our work, please open an issue in this repository.
