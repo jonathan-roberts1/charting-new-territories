@@ -1,0 +1,6 @@
+unutilized land, commercial land, public service land, transportation land, industrial land, water area, residential land, agriculture land, 
+
+dam, religious land, rock land, sparse shrub land, arable land, factory area, detached house, desert, lake, power station, beach, ice land, bare land, island, woodland, mobile home park, railway area, river, grassland, apartment, special land, port area, commercial area, highway area, mining area, sports land, airport area, leisure land, 
+
+dam, parking lot, greenhouse, pier, bridge, mine, rock land, baseball field, apron, tennis court, sparse shrub land, works, oil field, meadow, ground track field, detached house, golf course, forest, desert, lake, beach, paddy field, ice land, bare land, storage tank, basketball court, island, substation, mobile home park, cemetery, quarry, solar power plant, helipad, roundabout, runway, wastewater plant, river, apartment, dry field, intersection, swimming pool, commercial area, church, road, orchard, terraced field, stadium, train station, railway, viaduct, wind turbine, 
+

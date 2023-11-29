@@ -1,0 +1,4 @@
+transportation, other objects, woodland, water area, other land, cultivated land, construction land, 
+
+parking lot, avenue, highway, bridge, marina, crossroads, airport runway, pipeline, town, airplane, forest, mangrove, artificial grassland, river protection forest, shrubwood, sapling, sparse forest, lakeshore, river, stream, coastline, hirst, dam, sea, snow mountain, sandbeach, mountain, desert, dry farm, green farmland, bare land, city building, residents, container, storage room, 
+
