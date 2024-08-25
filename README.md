@@ -54,13 +54,12 @@ Coming soon!
 If you found our work useful in your own research, please consider citing our paper:
 
 ```latex
-@misc{roberts2023charting,
-      title={Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs}, 
-      author={Jonathan Roberts and Timo Lüddecke and Rehan Sheikh and Kai Han and Samuel Albanie},
-      year={2023},
-      eprint={2311.14656},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{roberts2024charting,
+  title={Charting new territories: Exploring the geographic and geospatial capabilities of multimodal llms},
+  author={Roberts, Jonathan and L{\"u}ddecke, Timo and Sheikh, Rehan and Han, Kai and Albanie, Samuel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={554--563},
+  year={2024}
 }
 ```
 
