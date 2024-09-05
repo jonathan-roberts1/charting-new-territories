@@ -54,12 +54,11 @@ Coming soon!
 If you found our work useful in your own research, please consider citing our paper:
 
 ```latex
-@inproceedings{roberts2024charting,
-  title={Charting new territories: Exploring the geographic and geospatial capabilities of multimodal llms},
+@article{roberts2023charting,
+  title={{Charting New Territories: Exploring the geographic and geospatial capabilities of multimodal LLMs}},
   author={Roberts, Jonathan and L{\"u}ddecke, Timo and Sheikh, Rehan and Han, Kai and Albanie, Samuel},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={554--563},
-  year={2024}
+  journal={arXiv preprint arXiv:2311.14656},
+  year={2023}
 }
 ```
 
