@@ -3,6 +3,8 @@
 
 [**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**](https://arxiv.org/abs/2311.14656)
 
+**CVPR 2024 EarthVision Workshop [Oral]**
+
 Jonathan Roberts, Timo Lüddecke, Rehan Sheikh, Kai Han, Samuel Albanie
 
 We conduct a series of experiments exploring various vision capabilities of multimodal large language models (MLLMs) within these domains, particularly focusing on the frontier model GPT-4V, and benchmark its performance against open-source counterparts. Our methodology involves challenging these models with a small-scale geographic benchmark consisting of a suite of visual tasks, testing their abilities across a spectrum of complexity. The analysis uncovers not only where such models excel, including instances where they outperform humans, but also where they falter, providing a balanced view of their capabilities in the geographic domain.
